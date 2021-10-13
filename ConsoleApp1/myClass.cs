@@ -4,6 +4,8 @@ public class Class1
 {
 	public Class1()
 	{
+        #region myregion
+
         public void Arraylist()
         {
             ArrayList arrayList = new ArrayList();
@@ -22,5 +24,8 @@ public class Class1
                 Console.WriteLine(item);
             }
         }
+
+        #endregion
+
     }
 }
