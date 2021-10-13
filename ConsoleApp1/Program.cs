@@ -11,8 +11,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int k = 10;
-            string name = "krishna";
+            // string name = "krishna"; // commited by guru
 
+            
 
 
         }
