@@ -13,7 +13,8 @@ namespace ConsoleApp1
             int k = 10;
             // string name = "krishna"; // commited by guru
 
-            
+            Console.WriteLine(k);
+            Console.WriteLine("code changes using the remote repository");
 
 
         }
